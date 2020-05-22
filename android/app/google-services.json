@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "594476224904",
+    "firebase_url": "https://net-telecom.firebaseio.com",
+    "project_id": "net-telecom",
+    "storage_bucket": "net-telecom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594476224904:android:5f7d8eb06bdd855b",
+        "android_client_info": {
+          "package_name": "br.com.czplasystem.net_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594476224904-ntv2736c1pjbgtjnarf535l5n6qu7toc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDIvg2kTutG6b-rHb1bPimcjSy66INxP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594476224904-ntv2736c1pjbgtjnarf535l5n6qu7toc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
